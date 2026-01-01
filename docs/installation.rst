@@ -1,4 +1,4 @@
 Installation
 ============
 
-pip install fixture
+pip install fixture==2
